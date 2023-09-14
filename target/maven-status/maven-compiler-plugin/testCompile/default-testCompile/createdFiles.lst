@@ -1,0 +1,8 @@
+desafio\nathan\StockApp\integration\StockRestControllerIntegrationTest.class
+desafio\nathan\StockApp\integration\StockServiceIntegrationTest.class
+desafio\nathan\StockApp\application\mappers\StockMapperTest.class
+desafio\nathan\StockApp\infrastructure\exceptions\ApplicationExceptionHandlerTest.class
+desafio\nathan\StockApp\StockAppApplicationTests.class
+desafio\nathan\StockApp\infrastructure\adapters\CSVFileReaderTest.class
+desafio\nathan\StockApp\infrastructure\api\StockControllerTest.class
+desafio\nathan\StockApp\application\StockServiceTest.class

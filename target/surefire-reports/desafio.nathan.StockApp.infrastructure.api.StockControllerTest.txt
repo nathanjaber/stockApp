@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: desafio.nathan.StockApp.infrastructure.api.StockControllerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.356 s - in desafio.nathan.StockApp.infrastructure.api.StockControllerTest

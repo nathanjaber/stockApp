@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: desafio.nathan.StockApp.integration.StockRestControllerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.779 s - in desafio.nathan.StockApp.integration.StockRestControllerIntegrationTest

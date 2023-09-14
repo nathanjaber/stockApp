@@ -1,0 +1,22 @@
+spring:
+  application.name: stockApp
+  datasource:
+    url: jdbc:postgresql://localhost:5432/stockquotedb
+    username: postgres
+    password: postgres
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        show_sql: true
+        format_sql: true
+
+logging.pattern.level: "%5p [${spring.application.name:},%X{traceId:-},%X{spanId:-}]"
+
+
+file-reader:
+  dir-path: /src/main/resources
+  system-path: user.dir
+  filename: stocks.csv
